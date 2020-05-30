@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "drag-drop-angular"
+    }
+  },
+  "defaultProject": "drag-drop-angular",
+  "cli": {
+    "analytics": "7b1e40ae-6d0d-4f2a-a588-ad904914055c"
+  }
 }
